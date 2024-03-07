@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skowdev" alt="skowdev" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://eflowcom.fr/" target="_blank" rel="noreferrer">**E-Flow**</a>
 
 - 🌱 I’m currently learning **Svelte, Java, C/C++**
 
